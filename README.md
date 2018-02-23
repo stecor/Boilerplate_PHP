@@ -1,5 +1,5 @@
 # Boilerplate_PHP
 
-![Screenshot](Screen Shot.png)
+![Screenshot](screenshot.png)
 
 Simple template to start a website with php using include and require.
